@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UI_Test</string>
+    <array name="places">
+        <item>宁波</item>
+        <item>上海</item>
+        <item>北京</item>
+        <item>苏州</item>
+        <item>南京</item>
+    </array>
+</resources>
